@@ -1,0 +1,160 @@
+---
+title: "Introdução à Estatística"
+subtitle: "Prof. Me. Lineu Alberto Cavazani de Freitas"
+author: |
+  |
+  | 2023/02 - Engenharia Elétrica
+output:
+  html_document:                    
+    #toc: true                       
+    #toc_depth: 3                    
+    #toc_float:                      
+    #  collapsed: true
+    #  smooth_scroll: true
+    #number_sections: true           
+    #theme: default
+    #spacelab
+    #default,cerulean,journal,flatly,readable,spacelab,
+    #united,cosmo,lumen,paper,sandstone,simplex,yeti
+    
+    highlight: espresso
+    #default, tango, pygments, kate, monochrome, espresso, zenburn, haddock, and textmate
+    #css: styles.css                
+    fig_width: 7                    
+    fig_height: 6                   
+    fig_caption: true               
+    fig_align: 'center'
+    #code_folding: hide              
+#    keep_md: true
+---
+
+---
+
+# {.tabset .tabset-fade .tabset-pills}
+
+## Detalhes da oferta
+
+ - **Disciplina**: CE009 - Introdução à Estatística.
+
+ - **Curso**: Engenharia Elétrica.
+
+ - **Período**: Segundo semestre de 2023.
+
+ - **Locais e horários**:
+    - Terça, 13:30 - 15:30, PK-01.
+    - Quinta, 13:30 - 15:30, PK-01.
+
+\ 
+
+ - **Horários de atendimento**: a combinar.
+
+ - **Frequência**: de acordo com as normas da Universidade, mínimo de 75%.
+
+ - **Datas importantes**:
+    - **24/07/23**: início do período letivo.
+    - **02/12/23**: término do período letivo.
+    - **04/07/23 a 09/12/23**: semana de exames finais.
+
+---
+
+## Informações de contato
+
+**Professor responsável**: Lineu Alberto Cavazani de Freitas.
+
+**Comunicação**: 
+
+  - Como plataforma de comunicação será utilizado o Microsoft Teams da UFPR.
+  - Para conversas particulares contatar via chat privado do Teams ou pelo e-mail lineu.alberto@ufpr.br.
+
+**Sala do professor**:
+
+  - Centro politécnico.
+  - Prédio do setor de ciências exatas (PA).
+  - Departamento de Estatística (2º andar).
+  - Laboratório de Estatística e Geoinformação (sala 232)
+  - Sala 225.
+
+---
+
+## Avaliação
+
+1. **Provas remotas via UFPR Virutal**:
+    - Questões sobre o conteúdo de determinado período.
+    - Os alunos serão notificados quanto à disponibilidade, período de abertura e fechamento das atividades.
+    - Não há segunda chamada de provas remotas. Ao perder uma prova remota, a nota é automaticamente 0.
+    - As sabatinas valem 25% da nota.
+    
+2. **Prova 1**:
+    - Avaliação presencial referente à primeira parte do conteúdo.
+    - Vale 25% da nota.
+    
+3. **Prova 2**:
+    - Avaliação presencial referente à segunda parte do conteúdo.
+    - Vale 25% da nota.
+    
+4. **Prova 3**:
+    - Avaliação presencial referente à terceira parte do conteúdo.
+    - Vale 25% da nota.
+        
+---
+
+## Programa e objetivos
+
+O objetivo da disciplina é capacitar os alunos em conceitos básicos de Estatística que permitam a interpretação crítica de resultados de análises e procedimentos estatísticos, bem como a execução de procedimentos e análises estatística básicas. 
+
+O curso compreende três grandes tópicos:
+
+ 1. Análise descritiva e exploratória de dados.
+ 2. Noções de probabilidades e distribuições de probabilidades.
+ 3. Introdução à procedimentos de inferência estatística.
+
+---
+
+## Referências bibliográficas
+
+### Material de apoio
+
+Playlist de Estatística Básica do Departamento de Estatística: http://www.leg.ufpr.br/~paulojus/estbas/.
+
+### Referências básicas
+
+ - Bussab, WO; Morettin, PA. Estatística Básica. São Paulo: Editora Saraiva, 2017 (9ª Edição).
+
+ - Magalhães, MN; Lima, ACP. Noções de Probabilidade e Estatística. São Paulo: EDUSP, 2015 (7ª edição).
+
+ - Montgomery, DC; Runger, GC. Estatística aplicada e probabilidade para engenheiros. Rio de Janeiro: LTC Editora, 2012 (5ª Edição).
+
+### Referências complementares
+ 
+ - Andrade, DF; Ogliari, PJ. Estatística para as ciências agrárias e biológicas, com noções de experimentação. Florianópolis: Editora da UFSC, 2013.
+
+ - Dantas, CAB. Probabilidade: um curso introdutório. São Paulo: EDUSP, 2008.
+
+ - Morettin, LG. Estatística básica: probabilidade e inferência. São Paulo: Pearson, 2010.
+
+ - Navidi, W. Probabilidade e estatística para ciências exatas. Porto Alegre: Bookman, 2012.
+
+ - Spiegel, MR; Schiller, J; Srinivasan, A. Probabilidade e estatística. Porto Alegre: Bookman, 2013.
+
+---
+
+# 
+
+<center>
+
+<table><tr>
+
+<td> <img src="img/ufpr-transparent-600px.png" alt="Drawing" style="width: 200px;"/> </td>
+
+<td> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td>
+
+<td> <img src="img/dest-texto-2.png" alt="Drawing" style="width: 250px;"/> </td>
+
+<td> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td>
+
+<td> <img src="img/leg.png" alt="Drawing" style="width: 300px;"/> </td>
+
+</center>
+
+
+<div class="tocify-extend-page" data-unique="tocify-extend-page" style="height: 0;"></div>
