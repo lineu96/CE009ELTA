@@ -39,93 +39,93 @@ output:
 
 **Semana 2**
 
- - 01/08/23 (ter) - Aula 1:
- - 03/08/23 (ter) - Aula 2:
+ - 01/08/23 (ter) - Aula 1: Orientações iniciais e Introdução.
+ - 03/08/23 (qui) - Aula 2: Dados e Amostragem.
 
 **Semana 3**
 
  - 08/08/23 (ter) - Aula 3:
- - 10/08/23 (ter) - Aula 4:
+ - 10/08/23 (qui) - Aula 4:
 
 **Semana 4**
 
  - 15/08/23 (ter) - Aula 5:
- - 17/08/23 (ter) - Aula 6:
+ - 17/08/23 (qui) - Aula 6:
 
 **Semana 5**
 
  - 22/08/23 (ter) - Aula 7:
- - 24/08/23 (ter) - Aula 8:
+ - 24/08/23 (qui) - Aula 8:
 
 **Semana 6**
 
  - 29/08/23 (ter) - Aula 9:
- - 31/08/23 (ter) - Aula 10:
+ - 31/08/23 (qui) - Aula 10:
 
 **Semana 7**
 
  - 05/09/23 (ter) - Aula 11:
- - 07/09/23 (ter) - **Feriado: Independência do Brasil.**
+ - 07/09/23 (qui) - **Feriado: Independência do Brasil.**
 
 **Semana 8**
 
  - 12/09/23 (ter) - Aula 12:
- - 14/09/23 (ter) - Aula 13:
+ - 14/09/23 (qui) - Aula 13:
 
 **Semana 9**
 
  - 19/09/23 (ter) - Aula 14:
- - 21/09/23 (ter) - Aula 15:
+ - 21/09/23 (qui) - Aula 15:
 
 **Semana 10**
 
  - 26/09/23 (ter) - Aula 16:
- - 28/09/23 (ter) - Aula 17:
+ - 28/09/23 (qui) - Aula 17:
 
 **Semana 11**
 
  - 03/10/23 (ter) - Aula 18:
- - 05/10/23 (ter) - Aula 19:
+ - 05/10/23 (qui) - Aula 19:
 
 **Semana 12**
 
  - 10/10/23 (ter) - Aula 20:
- - 12/10/23 (ter) - **Feriado: Nossa Senhora Aparecida.**
+ - 12/10/23 (qui) - **Feriado: Nossa Senhora Aparecida.**
 
 **Semana 13**
 
  - 17/10/23 (ter) - Aula 21:
- - 19/10/23 (ter) - Aula 22:
+ - 19/10/23 (qui) - Aula 22:
 
 **Semana 14**
 
  - 24/10/23 (ter) - Aula 23:
- - 26/10/23 (ter) - Aula 24:
+ - 26/10/23 (qui) - Aula 24:
 
 **Semana 15**
 
  - 31/10/23 (ter) - Aula 25:
- - 02/11/23 (ter) - **Feriado: Finados**
+ - 02/11/23 (qui) - **Feriado: Finados**
 
 **Semana 16**
 
  - 07/11/23 (ter) - Aula 26:
- - 09/11/23 (ter) - Aula 27:
+ - 09/11/23 (qui) - Aula 27:
 
 **Semana 17**
 
  - 14/11/23 (ter) - Aula 28:
- - 16/11/23 (ter) - Aula 29:
+ - 16/11/23 (qui) - Aula 29:
 
 **Semana 18**
 
  - 21/11/23 (ter) - Aula 30:
- - 23/11/23 (ter) - Aula 31:
+ - 23/11/23 (qui) - Aula 31:
 
 **Semana 19**
 
  - 28/11/23 (ter) - Aula 32:
- - 30/11/23 (ter) - Aula 33:
+ - 30/11/23 (qui) - Aula 33:
  
 **Exames**
 
