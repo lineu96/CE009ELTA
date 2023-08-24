@@ -70,7 +70,7 @@ output:
 **Semana 8**
 
  - 12/09/23 (ter) - Aula 12: Teorema de Bayes.
- - 14/09/23 (qui) - Aula 13:
+ - 14/09/23 (qui) - Aula 13: Exercícios
 
 **Semana 9**
 
