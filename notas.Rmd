@@ -58,9 +58,9 @@ posicao <- function(vetor){
 ### Medidas de dispersao
 
 dispersao <- function(vetor){
-  table <- data.frame(Amplitude = diff(range(vetor)),
-                      Variancia = var(vetor),
-                      Desvio_padrao = sd(vetor)#,
+  table <- data.frame(Amplitude = diff(range(vetor, na.rm = T)),
+                      Variancia = var(vetor, na.rm = T),
+                      Desvio_padrao = sd(vetor, na.rm = T)#,
                       #Coef_variacao = 100*sd(vetor)/mean(vetor)
   )
   
@@ -92,6 +92,7 @@ DT::datatable(notas[,c('GRR', 'FALTAS', 'PROVA 1')],
 <center>
 ```{r, echo=FALSE}
 pander::pander(posicao(notas$`PROVA 1`))
+pander::pander(dispersao(notas$`PROVA 1`))
 ```
 </center>
 
