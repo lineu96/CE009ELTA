@@ -50,6 +50,8 @@ posicao <- function(vetor){
   
   row.names(table) <- NULL
   
+  names(table) <- c('Mínimo', 'Q1', 'Média', 'Mediana', 'Q3', 'Máximo')
+  
   table  
 }
 
@@ -63,6 +65,8 @@ dispersao <- function(vetor){
                       Desvio_padrao = sd(vetor, na.rm = T)#,
                       #Coef_variacao = 100*sd(vetor)/mean(vetor)
   )
+  
+  names(table) <- c('Amplitude', 'Variância', 'Desvio padrão')
   
   table
 }
