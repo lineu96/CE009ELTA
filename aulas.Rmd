@@ -85,7 +85,7 @@ output:
 **Semana 11**
 
  - 03/10/23 (ter) - Aula 18: **TIRA DÚVIDAS.**
- - 05/10/23 (qui) - Aula 19: **PROVA 1.**
+ - 05/10/23 (qui) - Aula 19: **PROVA 2.**
 
 **Semana 12**
 
