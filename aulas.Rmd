@@ -84,12 +84,12 @@ output:
 
 **Semana 11**
 
- - 03/10/23 (ter) - Aula 18: **TIRA DÚVIDAS.**
- - 05/10/23 (qui) - Aula 19: **PROVA 2.**
+ - 03/10/23 (ter) - Aula 18: Exercícios.
+ - 05/10/23 (qui) - Aula 19: **TIRA DÚVIDAS.**
 
 **Semana 12**
 
- - 10/10/23 (ter) - Aula 20:
+ - 10/10/23 (ter) - Aula 20: **PROVA 2.**
  - 12/10/23 (qui) - **Feriado: Nossa Senhora Aparecida.**
 
 **Semana 13**
@@ -99,7 +99,7 @@ output:
 
 **Semana 14**
 
- - 24/10/23 (ter) - Aula 21:
+ - 24/10/23 (ter) - Aula 21: **PROVA 2.**
  - 26/10/23 (qui) - Aula 22:
 
 **Semana 15**
