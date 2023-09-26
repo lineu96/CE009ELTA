@@ -89,7 +89,7 @@ output:
 
 **Semana 12**
 
- - 10/10/23 (ter) - Aula 20: **PROVA 2.**
+ - 10/10/23 (ter) - Aula 20:
  - 12/10/23 (qui) - **Feriado: Nossa Senhora Aparecida.**
 
 **Semana 13**
