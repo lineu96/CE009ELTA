@@ -89,7 +89,7 @@ output:
 
 **Semana 12**
 
- - 10/10/23 (ter) - Aula 20:
+ - 10/10/23 (ter) - Aula 20: Introdução à Inferência
  - 12/10/23 (qui) - **Feriado: Nossa Senhora Aparecida.**
 
 **Semana 13**
