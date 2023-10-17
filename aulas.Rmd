@@ -100,16 +100,16 @@ output:
 **Semana 14**
 
  - 24/10/23 (ter) - Aula 21: **PROVA 2.**
- - 26/10/23 (qui) - Aula 22:
+ - 26/10/23 (qui) - Aula 22: Estimação pontual e intervalar.
 
 **Semana 15**
 
- - 31/10/23 (ter) - Aula 23:
+ - 31/10/23 (ter) - Aula 23: Tamanho amostral.
  - 02/11/23 (qui) - **Feriado: Finados**
 
 **Semana 16**
 
- - 07/11/23 (ter) - Aula 24:
+ - 07/11/23 (ter) - Aula 24: Exercícios.
  - 09/11/23 (qui) - Aula 25:
 
 **Semana 17**
