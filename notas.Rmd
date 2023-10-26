@@ -77,7 +77,8 @@ notas <- readxl::read_xls('notas-chamada.xls')
 
 DT::datatable(notas[,c('GRR', 'FALTAS', 'PROVA 1', 
                        'PROVA 2', 'REMOTA 1', 
-                       'REMOTA 2', 'REMOTA 3')], 
+                       'REMOTA 2', 'REMOTA 3',
+                       'PARCIAL')], 
               class = 'cell-border stripe',
               rownames = F,
               #filter = 'top',
