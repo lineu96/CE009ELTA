@@ -110,17 +110,17 @@ output:
 **Semana 16**
 
  - 07/11/23 (ter) - Aula 24: Exercícios.
- - 09/11/23 (qui) - Aula 25:
+ - 09/11/23 (qui) - Aula 25: Introdução aos testes de hipóteses.
 
 **Semana 17**
 
- - 14/11/23 (ter) - Aula 26:
- - 16/11/23 (qui) - Aula 27:
+ - 14/11/23 (ter) - Aula 26: Exercícios.
+ - 16/11/23 (qui) - Aula 27: Outros testes de hipóteses.
 
 **Semana 18**
 
- - 21/11/23 (ter) - Aula 28:
- - 23/11/23 (qui) - Aula 29:
+ - 21/11/23 (ter) - Aula 28: **TIRA DÚVIDAS.**
+ - 23/11/23 (qui) - Aula 29: **PROVA 3.**
 
 **Semana 19**
 
