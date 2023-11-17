@@ -129,8 +129,7 @@ output:
  
 **Exames**
 
- - 05/12/23 (ter) - **Período de EXAMES FINAIS.**
- - 07/12/23 (qui) - **Período de EXAMES FINAIS.**
+ - 05/12/23 (ter) - **EXAME.**
 
 ---
 
